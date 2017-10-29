@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{F9281A39-222E-E85C-EE6A-0062D1399A02}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Brick3D PreferredExecutionTarget="Unity.Editor" />
+</Properties>
